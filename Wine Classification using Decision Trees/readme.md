@@ -1,7 +1,7 @@
 
 ## Wine Classification using Decision Tree 
 
-**This problem illustrates the effect of the class imbalance of the accuracy of the decision trees. Download the red wine quality data from the UCI machine learning repository at: http://archive.ics.uci.edu/ml/datasets/Wine+Quality **
+** This problem illustrates the effect of the class imbalance of the accuracy of the decision trees. Download the red wine quality data from the UCI machine learning repository at: http://archive.ics.uci.edu/ml/datasets/Wine+Quality **
 
 Dataset has  6 classes (quality levels) in the dataset – 3, 4, 5, 6, 7, 8. 
 
